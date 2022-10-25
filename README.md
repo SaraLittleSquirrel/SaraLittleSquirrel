@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaraLittleSquirrel
 - 👀 I’m interested in bodybuilding, scuba diving, travelling, IT
 - 🌱 Laurea Magistrale Ingegneria Informatica @ Unibs
-- 💞️ I’m looking to collaborate on smart and nice people
+- 💞️ I’m looking to collaborate with smart and nice people
 - 📫 How to reach me (personal mail) saraderosa1@protonmail.com | (academics mail) s.derosa001@studenti.unibs.it
 -     
 
