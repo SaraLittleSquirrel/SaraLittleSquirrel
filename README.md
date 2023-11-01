@@ -40,6 +40,13 @@ I have a diverse skill set, including but not limited to:
 ### Data Management
 - **Database Management Systems (DBMS)**: MySQL (Intermediate)
 
+### Security
+- Wireshark (Basic)
+- Suricata (Basic)
+- Splunk (Basic)
+- Tcpdump (Basic)
+- Google Chronicle (Basic)
+
 ## 📫 How to Reach Me
 
 Feel free to connect with me through the following channels:
